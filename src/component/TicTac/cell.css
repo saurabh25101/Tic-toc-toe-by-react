@@ -1,0 +1,15 @@
+ .cell-btn {
+  width: 70px;
+  height: 70px;
+  background: #1b8c5f;
+  border: 2px solid white;
+  color: white;
+  font-size: 32px;
+ 
+}
+.winner {
+  background-color: red !important;
+  color: white;
+  font-weight: bold;
+ 
+}
